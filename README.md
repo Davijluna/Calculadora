@@ -1,3 +1,3 @@
 <h1 align="center">Calculadora</h1>
 
-#  :construction: README em construção ! :construction:
+<p align="center">:construction: README em construção ! :construction:</p>
