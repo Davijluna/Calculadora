@@ -1,3 +1,18 @@
 body {
-  background: #1703f5;
+  background: #c0d1e9;
+}
+
+#main {
+  position: relative;
+
+}
+
+.container {
+  width: 110px;
+  height: 110px;
+  background-color: chocolate;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin: -25px 0 0 -25px;
 }
