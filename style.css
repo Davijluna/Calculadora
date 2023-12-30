@@ -1,18 +1,34 @@
+/* * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+} */
+
 body {
   background: #c0d1e9;
 }
 
-#main {
-  position: relative;
 
+/* #main {
+  display: flex;
+} */
+
+h1 {
+  text-align: center;
 }
 
 .container {
-  width: 110px;
-  height: 110px;
-  background-color: chocolate;
+  background-color: rgb(50, 56, 69);
   position: absolute;
-  top: 50%;
   left: 50%;
-  margin: -25px 0 0 -25px;
+  transform: translateX(-50%);
+  padding: 10px;
+  /* margin-left: auto; */
+  /* margin-right: auto; */
+  display: block;
+}
+
+.row {
+  width: 180px;
+  margin: 5px
 }
